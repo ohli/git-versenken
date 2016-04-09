@@ -25,6 +25,6 @@ Ich empfehle euch davor das absolvieren von [git-game](https://github.com/git-ga
 ## Zeitraum ##
 Pro Woche hat jeder zwei Schüsse. Trefferauswertung ist immer bis *Mittwoch*- und *Sonntag*abend (-> wer bis dahin nicht "geschossen" hat, rutscht in die nächste Runde).
 
-Na denn mal los ihr Landratten :rocket :ship
+Na denn mal los ihr Landratten :rocket: :ship:
 
 Viel Erfolg!
