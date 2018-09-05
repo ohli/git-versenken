@@ -16,10 +16,10 @@ Ich empfehle euch davor das absolvieren von [git-game](https://github.com/git-ga
 5. Wieder von vorn, davor aber noch die Änderungen der anderen reinmergen ;-) [Link](https://help.github.com/articles/syncing-a-fork/)
 
 ## Symbolik ##
-* + - unentdecktes Gebiet
-* x - bereits beschossen, aber ins Wasser gefallen
-* o (am Beispiel Oliver) - vom Spieler "Oliver" beschossenes Feld
-* O (am Beispiel Oliver) - vom Spieler "Oliver" getroffenes Feld
+* `+` - unentdecktes Gebiet
+* `x` - bereits beschossen, aber ins Wasser gefallen
+* `o` (am Beispiel Oliver) - vom Spieler "Oliver" beschossenes Feld
+* `O` (am Beispiel Oliver) - vom Spieler "Oliver" getroffenes Feld
 ..bereits beschossene Felder können nicht nochmal beschossen werden, außerdem sollten in meinem Upstream niemals Kleinbuchstaben (außer x) auftauchen da ich aus jedem "Schuss" ein x oder einen Großbuchstaben mache.
 
 ## Zeitraum ##
